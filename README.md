@@ -1,8 +1,6 @@
 # FastMCP-ADK-Server-Client
 This Repo contain FASTMCP client and FASTMCP  server code. FASTMCP  Server contain ADK agent
 
-Here's a polished **README.md** template for your **FastMCP-ADK-Server-Client** repository. Since I can't see the precise contents of your `client.py`, `server.py`, and the `README.md` that exists, feel free to tweak the details (like usage examples or dependencies) to match your actual implementation.
-
 ---
 
 ````markdown
@@ -131,8 +129,6 @@ To contribute:
 * Leveraging **Google’s ADK** for intelligent agent integration.
 
 ---
-
-Feel free to customize this README further—that way, it reflects the actual functionality and provides clear guidance for others exploring or contributing to your project!
 
 [1]: https://github.com/jlowin/fastmcp?utm_source=chatgpt.com "jlowin/fastmcp: The fast, Pythonic way to build MCP servers and clients"
 [2]: https://gofastmcp.com/clients/client?utm_source=chatgpt.com "The FastMCP Client"
